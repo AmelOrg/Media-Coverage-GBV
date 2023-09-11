@@ -1088,3 +1088,13 @@ a:focus {
   opacity: 1;
 }
 /*# sourceMappingURL=style.css.map */
+@media screen and (max-width: 600px) {
+  #title_message {
+    visibility: hidden;
+    clear: both;
+    float: left;
+    margin: 10px auto 5px 20px;
+    width: 28%;
+    display: none;
+  }
+}
